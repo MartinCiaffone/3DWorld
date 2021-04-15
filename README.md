@@ -13,7 +13,7 @@ Any design pattern is accepted and should be justified.
 MY APPROACH
 
 I have modeled following the DDD methodology, for this to be evident I have specially developed an aspect of the domain that has to do with the representation of the units, in order to apply, in addition to the concepts of OOP and hence SOLID principles, various DDD patterns.
-It's also true that by doing so, he might be walking a bit on the ledge of Cargo Cult's Programming Chasm. :-)
+It's also true that by doing so, I might be walking a bit on the ledge of Cargo Cult's Programming Chasm. :-)
 But it is clear that the idea is to show, within the limits of an exercise, mastery of some techniques and adherence to certain practices.
 
 But the code is limited to reflecting a domain model and the functionality is limited to a few methods.
